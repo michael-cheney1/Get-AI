@@ -15,6 +15,6 @@ Basic PowerShell interaction with openai.com API
 
 * Run a simple query (First parameter is the Query by default, API Key specified in the function)
 
-Get-AI 'Write a bash while loop'
+`Get-AI 'Write a bash while loop'`
 
 ![image](https://user-images.githubusercontent.com/121982191/210659486-ba769581-a859-41af-98b8-e8622da7a1a8.png)
